@@ -1,7 +1,14 @@
-Privacy Policy – Lowly
-
-Lowly does not collect, store, or share any personal data.
-All product comparisons and analyses are performed locally in your browser.
-No data is transmitted to external servers or third parties.
-
-Contact: liridon.imeri94@gmail.coms
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Privacy Policy – Lowly</title>
+</head>
+<body>
+  <h1>Privacy Policy – Lowly</h1>
+  <p>Lowly does not collect, store, or share any personal data.</p>
+  <p>All product comparisons and analyses are performed locally in your browser.</p>
+  <p>No data is transmitted to external servers or third parties.</p>
+  <p>Contact: support@example.com</p>
+</body>
+</html>
